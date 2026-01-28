@@ -1,6 +1,6 @@
 ---
 
-# rgt (Repository for C++ and Python Development)
+# 개요
 
 본 저장소는 C++을 이용한 핵심 자료구조 및 파일 관리 시스템 구현과 Python FastAPI를 활용한 백엔드 API 데모 프로젝트를 포함하고 있습니다. 상세한 구현 설명 및 시연 결과는 별도의 노션 문서를 통해 제공됩니다.
 
